@@ -1,3 +1,3 @@
 (In progress)
 
-Bear species image classification using a convolutional neural network.
+Bear species image classifier using a convolutional neural network.
